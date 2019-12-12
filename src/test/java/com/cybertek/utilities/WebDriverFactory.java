@@ -1,4 +1,6 @@
-package com.cybertek.utilities;
+
+
+        package com.cybertek.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -7,20 +9,26 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class WebDriverFactory {
 
-    public static WebDriver getDriver(String browserType){
+    // you guys
+    // write a static method that takes a string parameter
+    // based  on the value of the parameter
+    // the method must return ChromeDriver or FirefoxDriver object
+    // name: getDriver
 
-        WebDriver driver=null;
-
-        switch(browserType.toLowerCase()){
+    public static WebDriver getDriver(String browserType) {
+        WebDriver driver = null;
+        switch (browserType.toLowerCase()) {
             case "chrome":
                 WebDriverManager.chromedriver().setup();
-                driver= new ChromeDriver();
+                driver = new ChromeDriver();
                 break;
             case "firefox":
                 WebDriverManager.firefoxdriver().setup();
-                driver=new FirefoxDriver();
-                break;
+                driver = new FirefoxDriver();
         }
+
         return driver;
     }
+
+
 }
