@@ -39,6 +39,7 @@ public class ActionsExampleTest {
         // moveToElement() --> moves the mouse on top of the given element
         // perform() --> complete the action, using everytime
         actions.moveToElement(img1).perform();
+
         Assert.assertTrue(driver.findElement(By.linkText("View profile")).isDisplayed());
     }
     @Test
