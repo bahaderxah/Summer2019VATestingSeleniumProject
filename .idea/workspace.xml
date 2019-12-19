@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86afd32b-9dfd-466c-9141-01776ddf245f" name="Default" comment="second commit1">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d11_file_upload_actions_class/ActionsExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d11_file_upload_actions_class/ActionsExampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d11_file_upload_actions_class/FileUploadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/d11_file_upload_actions_class/FileUploadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,7 @@
       </method>
     </configuration>
     <configuration name="ActionsExampleTest.hoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
+      <module name="Summer2019VATestNGSeleniumProject." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.d11_file_upload_actions_class.*" />
@@ -104,7 +98,7 @@
       </method>
     </configuration>
     <configuration name="FileUploadTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
+      <module name="Summer2019VATestNGSeleniumProject." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.d11_file_upload_actions_class.*" />
@@ -122,7 +116,7 @@
       </method>
     </configuration>
     <configuration name="FileUploadTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
+      <module name="Summer2019VATestNGSeleniumProject." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.d11_file_upload_actions_class.*" />
@@ -141,7 +135,7 @@
       </method>
     </configuration>
     <configuration name="NegativeLoginTestWithReports.wrongPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
+      <module name="Summer2019VATestNGSeleniumProject." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.d17_extent_reports.*" />
@@ -160,7 +154,7 @@
       </method>
     </configuration>
     <configuration name="/Users/apple/IdeaProjects/Summer2019VATestingSeleniumProject/smoke_test_runner_multiple_environments.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
+      <module name="Summer2019VATestNGSeleniumProject." />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke_test_runner_multiple_environments.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -355,11 +349,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.800/-294.-1080.1920.1080@0.0.1280.800" timestamp="1576205967047" />
-    <state x="294" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1576524533623">
+    <state x="294" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1576730108253">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="294" y="230" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-336.-1080.1920.1080@0.0.1280.800" timestamp="1576462828648" />
-    <state x="294" y="230" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1576524533623" />
+    <state x="294" y="230" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1576730108253" />
     <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777/-294.-1057.1920.1057@0.23.1280.777" timestamp="1574985737779" />
     <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1576013282474" />
     <state x="295" y="49" width="689" height="693" key="find.popup" timestamp="1576016415168">
